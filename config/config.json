@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "rumah123",
-    "database": "mobile_programing",
-    "host": "127.0.0.1",
+    "username": "fbqbiubf",
+    "password": "As4ngP7XM7zoLd7qdwUp7O2WHR27tbQb",
+    "database": "fbqbiubf",
+    "host": "satao.db.elephantsql.com",
     "dialect": "postgres"
   },
   "test": {
@@ -21,3 +21,4 @@
     "dialect": "postgres"
   }
 }
+
